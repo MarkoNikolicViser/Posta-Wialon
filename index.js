@@ -1,9 +1,9 @@
 // var ftpClient = require('ftp-client'),
 //     config = {
-//         host: '212.62.32.199',
-//         port: 21,
-//         user: 'apv5',
-//         password: 'apv509122020'
+//         host: '',
+//         port: ,
+//         user: '',
+//         password: ''
 //     },
 //     options = {
 //         logging: 'basic'
@@ -22,9 +22,9 @@
 const fetch = require("node-fetch");
 const fs = require('fs').promises;
 
-const token='fca0c6ac5d43eb465a2ca23af18051deAE1EF707A526125D01774F3422824711433076E4';
-//posta token fca0c6ac5d43eb465a2ca23af18051deAE1EF707A526125D01774F3422824711433076E4
-//marko token 6105f9d0377069e69dd9edc5f1be1afaAB7103640D706579A454F90D5F1E561548BA225F
+const token='';
+//posta token 
+//marko token 
 
 
 const CitanjeCsv=async()=>{
